@@ -8,7 +8,7 @@
 #Requires AutoHotkey v2.0
 #Warn
 
-file_name := "your_choosen_file.wav"
+file_name := "StartupSound.wav"
 StartupSound(file_name)
 
 
